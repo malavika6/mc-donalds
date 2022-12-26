@@ -1,0 +1,182 @@
+.container{
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+
+.header{
+    width: 100%;
+    height: 130px;
+    box-shadow: 0 0.0625rem 5rem 0 rgba(17, 17, 17, 0.04), 0 0.0625rem 6em 0 rgba(13, 13, 13, 0.04);
+    padding: 0;
+    top: 0; 
+    
+}   
+
+body{
+    margin: 0;
+}
+.logo{
+    float: left;
+    margin-left: 390px;
+    margin-top: 10px;
+}
+.top1{
+    float: left;
+    padding-left: 87px;
+    padding-right: 191px;
+}
+.nav-bar{
+    border: none;
+    font-size: 15px;
+    color: rgb(59, 59, 59);
+}
+.text{
+    text-decoration: none;
+    color: rgb(59, 59, 59);
+    padding: 30px;
+    font-size: 15px;
+    
+}
+.top2{
+    float: left;
+}
+.switch{
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    width: 101px;
+    height: 32px;
+}
+.tab-top{
+    padding-top: 20px;
+}
+.tab-bottum{
+    padding-top: 34px;
+    padding-left: 565px;
+
+}
+.text1{
+    text-decoration: none;
+    color: rgb(59, 59, 59);
+    padding: 20px;
+    font-size: 15px; 
+    
+}
+.body1{
+    width: 100%;
+    height: 700px;
+    
+}
+.left{
+    margin-left: 370px;
+    padding-top: 80px;
+    width: 750px;
+    float: left;
+
+}
+.img{
+    width: 748px;
+    height: 333px;
+}
+.right{
+    float: left;
+    padding-left: 25px;
+    margin-top: 80px;
+}
+.head{
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    margin: 0;
+}
+.text2{
+    font-size: 15px;
+    line-height: 24px;
+
+}
+.text3{
+    font-weight: 700;
+    font-size: 18px;
+}
+.text4{
+    font-size: 11px;
+}
+.switch2{
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    width: 176px;
+    height: 45px;
+    font-size: 15px;
+    margin-top: 40px;
+
+}
+.body2{
+    width: 100%;
+    height: 550px;
+}
+.switch3{
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    width: 190px;
+    height: 45px;
+    font-size: 15px;
+    margin-top: 40px;
+
+    
+}
+.switch4{
+    border: none;
+    background-color: #ffbc0d;
+    border-radius: 4px;
+    width: 260px;
+    height: 45px;
+    font-size: 15px;
+    margin-top: 40px;  
+}
+.body3{
+    width: 100%;
+    height: 500px;
+
+}
+.body4{
+    margin-left: 375px;
+    width: 100%;
+    height: 390px;
+
+}
+.part1{
+    float: left;
+    padding-left: 100px;
+}
+.part2{
+    float: left;
+    padding-left: 100px;
+}
+.part3{
+    float: left;
+    padding-left: 100px;
+}
+.part4{
+   
+    padding-left: 100px;
+}
+.head2{
+    font-weight: 600;
+    font-size: 17px;
+}
+.shead{
+    line-height: 27px;
+}
+.img-bar{
+    float: left;
+    margin-left: 400px;
+    margin-right: 555px;
+    
+}
+.img2{
+    width: 34px;
+}
+.ltext{
+    text-align: center;
+}
